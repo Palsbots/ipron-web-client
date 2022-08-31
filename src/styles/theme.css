@@ -1,0 +1,14 @@
+:root {
+  --base: #f0f2f3;
+  --color-100: #f0f0f3;
+  --color-150: #e6e6e6;
+  --color-200: #dadada;
+  --color-500: #888;
+  --color-700: #505050;
+  --color-900: #222;
+  --primary: #007eec;
+  --secondary: #00DA59;
+  --danger: #ff2068;
+  /* */
+  --primary-rgb: 0, 126, 236;
+}
